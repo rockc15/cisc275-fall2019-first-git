@@ -26,7 +26,7 @@ In this space, type the sequence of commands you used to achieve the final state
 Create an empty repository under your GitHub account and name it "cisc275-fall2019-first-git".
 Paste the URL of your repository here:
 
-https://github.com/rockc15/cisc275-fall2019-first-git.git
+https://github.com/rockc15/cisc275_spring2020_first_git.git
 
 Back in your machine, create a new local repository:
 

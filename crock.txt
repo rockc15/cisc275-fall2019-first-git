@@ -1,2 +1,2 @@
 rockc15
-https://github.com/rockc15/cisc275-fall2019-first-git.git
+https://github.com/rockc15/cisc275_spring2020_first_git.git
