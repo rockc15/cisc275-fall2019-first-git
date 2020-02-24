@@ -1,4 +1,4 @@
-package Lab3;
+package cisc275_spring2020_first_git;
 
 public class Dog extends Animal {
 

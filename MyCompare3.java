@@ -1,4 +1,4 @@
-package Lab3;
+package cisc275_spring2020_first_git;
 
 import java.util.ArrayList;
 import java.util.Collections;
