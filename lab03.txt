@@ -14,6 +14,23 @@ For this assignment you will follow the instructions at the above link to:
 
 In this space, type the sequence of commands you used to achieve the final state of all four files:
 
+    mkdir Play
+    git init
+
+    touch file1.txt
+    touch file2.txt
+    touch file3.txt
+    touch file4.txt
+
+    git add file1.txt
+    git add file2.txt
+    git add file3.txt
+
+    git commit file3.txt -m "first commit"
+
+    echo modified the file >> file2.txt
+
+    git status
 
 
 
